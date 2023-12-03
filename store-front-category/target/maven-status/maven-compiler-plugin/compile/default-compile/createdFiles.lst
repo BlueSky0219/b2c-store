@@ -1,0 +1,5 @@
+com\sky\category\mapper\CagtegoryMapper.class
+com\sky\category\service\CategoryService.class
+com\sky\category\CategoryApplication.class
+com\sky\category\service\impl\CategoryServiceImpl.class
+com\sky\category\controller\CategoryController.class

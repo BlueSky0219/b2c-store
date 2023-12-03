@@ -1,0 +1,3 @@
+com\sky\search\SearchApplication.class
+com\sky\search\listener\SpringBootListener.class
+com\sky\search\config\SearchConfiguration.class

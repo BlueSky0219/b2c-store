@@ -1,0 +1,5 @@
+com\sky\carousel\service\impl\CarouselServiceImpl.class
+com\sky\carousel\controller\CarouselController.class
+com\sky\carousel\CarouselApplication.class
+com\sky\carousel\mapper\CarouselMapper.class
+com\sky\carousel\service\CarouselService.class

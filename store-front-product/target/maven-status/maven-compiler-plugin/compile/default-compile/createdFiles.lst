@@ -1,0 +1,7 @@
+com\sky\product\controller\ProductController.class
+com\sky\product\mapper\PictureMapper.class
+com\sky\product\service\impl\ProductServiceimpl.class
+com\sky\product\mapper\ProductMapper.class
+com\sky\product\service\ProductService.class
+com\sky\product\controller\ProductSearchController.class
+com\sky\product\ProductApplication.class

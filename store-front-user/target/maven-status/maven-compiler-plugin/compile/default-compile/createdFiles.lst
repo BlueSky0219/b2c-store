@@ -1,0 +1,9 @@
+com\sky\user\service\AddressService.class
+com\sky\user\UserApplication.class
+com\sky\user\mapper\AddressMapper.class
+com\sky\user\Controller\AddressController.class
+com\sky\user\Controller\UserController.class
+com\sky\user\service\impl\AddressServiceImpl.class
+com\sky\user\mapper\UserMapper.class
+com\sky\user\service\UserService.class
+com\sky\user\service\impl\UserServiceImpl.class
